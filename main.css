@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(35, 5, 90) ;
+}
+.text 
+{
+  width: 80%;
+  height: 70%;
+  top: 25%;
+  left: 130px;
+  position: absolute;
+  color: white;  
+}
+p
+{
+    font-size: 25px;
+}
+.foto
+{
+    width: 50%;
+    float: right;
+
+}
+.foto img
+{
+    width: 100%;
+    top: 25%;
+}
